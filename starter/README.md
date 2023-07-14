@@ -9,5 +9,6 @@ poetry install
 
 To run the project and its agents:
 ```bash
+cd uagent_starter
 poetry run main.py
 ```

@@ -1,4 +1,4 @@
-# Data collector μAgent
+#  uAgent Starter Example
 
 This is a basic template with two agents `alice` and `bob` who exchange messages.
 

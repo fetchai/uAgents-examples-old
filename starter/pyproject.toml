@@ -1,0 +1,13 @@
+[tool.poetry]
+name = "uagent-starter"
+version = "0.1.0"
+description = "A starter template for creating a uAgent project"
+authors = ["Fetch.AI Limited"]
+
+[tool.poetry.dependencies]
+python = ">=3.8,<3.12"
+uagents = "*"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

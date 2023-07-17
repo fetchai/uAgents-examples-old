@@ -31,7 +31,7 @@ prompt = PromptTemplate(
     partial_variables={"format_instructions": format_instructions}
 )
 
-llm = ChatOpenAI(temperature=0.1) #LLMWrapper() #OpenAI(temperature=0)
+llm = ChatOpenAI(temperature=0.1)
 tools = load_tools(["serpapi"], llm=llm)
 langchain_agent = initialize_agent(tools, llm, agent="chat-zero-shot-react-description", verbose=True)
 

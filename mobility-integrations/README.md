@@ -18,10 +18,10 @@ Before running the agents, you need to obtain the required API keys:
 
 1. Visit the OpenChargeMap API website: https://openchargemap.org/site/develop/api.
 2. If you don't have an account, create one by signing up.
-3. Once you are logged in, navigate to the API access section.
-4. Find a form to request an API key in the API access section.
+3. Once you are logged in, click on the MY PROFILE > my apps at the top.
+4. Click on REGISTER AN APPLICATION button.
 5. Fill out the required information in the form, including the purpose of using the API, and submit the request.
-6. Once approved, you will receive your `OPENCHARGEMAP_API_KEY` via email.
+6. Once approved, you will see your `OPENCHARGEMAP_API_KEY` under MY API KEYS.
 
 #### GEOAPI_API_KEY 🗺️
 

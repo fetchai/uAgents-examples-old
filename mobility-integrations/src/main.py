@@ -1,5 +1,5 @@
 from agents.ev_charger.ev_charger import agent as ev_charger_agent
-from agents.geopy_car_parking import agent as geopy_car_parking_agent
+from agents.geopy_car_parking.geopy_car_parking import agent as geopy_car_parking_agent
 from uagents import Bureau
 
 if __name__ == "__main__":

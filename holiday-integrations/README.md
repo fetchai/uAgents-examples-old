@@ -39,7 +39,7 @@ To use the environment variables from .env and install the project:
 ```bash
 cd src
 source .env
-poetry intall
+poetry install
 ```
 ### Step 3: Run the main script
 To run the project and its agents:
